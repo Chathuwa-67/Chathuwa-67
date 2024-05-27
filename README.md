@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chathuwa-67
+- 👋 Hi, I’m Gihan Chathuranga Gunathilaka
 - 👀 I’m interested in Robotics,Programming{C++,C,C#,JAVA};Innovation,Arduino,Technology Trends,UI/UX
 - 🌱 I’m currently learning Core java,DBMS,Networking
 - 💞️ I’m looking to collaborate on ...
