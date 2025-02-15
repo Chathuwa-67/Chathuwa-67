@@ -1,6 +1,15 @@
-# 💫 About Me:
-👋 Hi, I’m Gihan Chathuranga Gunathilaka<br>👀 I’m interested in Robotics,Programming , Innovation,Arduino,Technology Trends,UI/UX<br>🌱 I’m currently learning Core Java, DBMS, Networking<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me gihangunathilakavck@gmail.com
+<h1 align="center">Hi 👋, I'm Gihan Chathuranga Gunathilaka</h1>
+<h3 align="center">A Passionate Full Stack Developer | Tech Enthusiast 🚀</h3>
 
+---
+
+### 👨‍💻 About Me  
+💡 **Tech Explorer:** I love solving real-world problems with code and staying updated with the latest tech trends.  
+🔥 **Full Stack Developer:** Building interactive web applications with modern technologies.  
+📚 **Currently Learning:** Advanced Java, DBMS, Networking & Cloud Technologies.  
+⚡ **Interests:** Robotics 🤖 | UI/UX 🎨 | IoT & Arduino ⚡  
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gihan Gunathilaka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gihan chathuwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gihan-chathuranga-gunathilaka) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Gihan Chathuranga Gunathilaka) 
